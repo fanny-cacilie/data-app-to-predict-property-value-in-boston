@@ -2,7 +2,7 @@
 <p>
 Data app created for studies purposes. 
   
-Involves data science and machine learning tools.
+Developed in Python.
 
 This is a data application used to display the Machine Learning solution to the Boston property prediction problem.
 </p>
