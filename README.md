@@ -11,7 +11,7 @@ This is a data application used to display the Machine Learning solution to the 
 <p>
 <h2> Running the data app </h2>
 
-To run this app, download the dependencies displayed in "requiments.txt".
+To run this app, download the dependencies displayed in "requirements.txt".
 
 Then, run the following command: <br>
 ```
