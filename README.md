@@ -37,7 +37,7 @@ To install dependencies use the following command:
 You can install dependencies directly in your machine or in a virtual environment of your choice, such as [VirtualEnv](https://virtualenv.pypa.io/en/latest/) or [Conda](https://docs.conda.io/en/latest/).
 
 
-##Running the data app 
+## Running the data app 
 
 To run this app, download the dependencies displayed in "requirements.txt".
 
